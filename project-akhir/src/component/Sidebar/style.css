@@ -1,0 +1,13 @@
+.list-group a:hover {
+    background-color: rgb(97, 168, 143);
+    color: white;
+    cursor: pointer;
+}
+
+.sidebar {
+    background-color: #2f4f4f;
+}
+
+.tombol-back a:hover {
+    color: white;
+}

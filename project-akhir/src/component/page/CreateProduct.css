@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 100vw;
+    overflow-x: hidden;
+}
+
+header ul li a.active {
+    background-color: #0d6efd !important;
+    border-radius: 4px;
+    color: #fff !important;
+}
+
+header ul li a:hover {
+    background-color: #0d6efd !important;
+    border-radius: 4px;
+    color: #fff !important;
+}
+
+.category-product{
+    width: 224px;
+    height: 38px;
+}
+
+input[type="file"]::file-selector-button {
+    background: #084cdf;
+    color: #fff;
+    cursor: pointer;
+}
+
+.detail-product{
+    width: 282px;
+    height: 36px;
+}
+
+.image-product{
+    width: 235px;
+}
+
+.price {
+    width: 604px;
+}
+
+.submit{
+    width: 420px;
+}
+
+img{
+    margin-top: 0px;
+}

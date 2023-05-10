@@ -1,0 +1,357 @@
+/* body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 100vw;
+    overflow-x: hidden;
+    background-color: white;
+  } */
+  
+  /* navbar */
+  /* a {
+    color: #FFC107 !important;
+    text-decoration: none !important;
+  }
+  
+  .navbar {
+    background-color: #013b01 !important;
+    font-size: 18px;
+  }
+  
+  a:hover {
+    color: white !important;
+  }
+   */
+  /* slider */
+.carousel-item {
+    height: 100vh;
+    min-height: 300px;
+    background-repeat: no-repeat center center scroll;
+    background-size: cover;
+}
+
+.carousel-item img {
+
+    filter: brightness(50%);
+}
+
+.carousel-caption {
+    margin-bottom: 150px;
+}
+
+.carousel {
+    box-shadow: 0px 4px 6px -1px rgba(255, 255, 255, 0.3);
+}
+
+/* contact */
+ 
+  
+  /* footer */
+  /* .footer {
+    background-color: #013b01 !important;
+  } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+
+    box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+} */
+
+/* Navbar */
+/* header ul li a.active {
+    background-color: #0d6efd !important;
+    border-radius: 4px;
+    color: #fff !important;
+}
+
+header ul li a:hover {
+    background-color: #0d6efd !important;
+    border-radius: 4px;
+    color: #fff !important;
+} */
+
+/* container-fluid */
+/* #hero
+#hero {
+    height: 760px;
+    left: 0px;
+    right: 0px;
+    top: 60px;
+    background: #37517E;
+} */
+
+/* h1 { */
+    /* Better Solutions For Your Business */
+    /* position: absolute;
+    width: 561.42px;
+    height: 125px;
+    left: 90px;
+    top: calc(50% - 125px/2 - 86.8px);
+
+    font-family: 'Jost';
+    font-size: 48px;
+    color: #FFFFFF;
+} */
+
+/* .text-header {
+    position: absolute;
+    font-family: 'Jost';
+    width: 594.64px;
+    height: 63.8px;
+    left: 90px;
+    font-size: 24px;
+    margin-top: 350px;
+    color: grey;
+} */
+
+/* .get-started {
+    margin-top: 450px;
+    margin-left: 80px;
+    left: 12px;
+    align-items: flex-start;
+    padding: 9px 28.3594px 12px 28px;
+    color: #FFFFFF;
+    width: 147.36px;
+    height: 45px;
+    background: #47B2E4;
+    border-radius: 50px;
+    border: none;
+}
+
+.video {
+    margin-top: 450px;
+    margin-left: 10px;
+    left: 12px;
+    align-items: flex-start;
+    padding: 9px 28.3594px 12px 28px;
+    color: #FFFFFF;
+    width: 147.36px;
+    height: 45px;
+    background: none;
+    border: none;
+}
+
+img {
+    position: absolute;
+    width: 636px;
+    height: 527px;
+    left: 750px;
+    top: calc(50% - 527px/2 + 8.5px);
+    max-width: 50%;
+} */
+
+/* container
+.newsletter {
+    text-align: center;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 50px 426px;
+
+    width: auto;
+    height: 239px;
+
+    background-color: #F3F5FA;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.join {
+    font-size: 25px;
+    font-family: 'Jost';
+    color: #37517E;
+}
+
+.text {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 29px;
+}
+
+.input-text {
+    border-radius: 20px;
+    border: none;
+}
+
+.container2 {
+    max-width: 1170px;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.submit-button {
+    position: absolute;
+    right: 500px;
+    background: #47B2E4;
+    border-radius: 50px;
+    border: none;
+    padding: 8px 26px;
+    color: #FFFFFF;
+} */
+
+/* footer */
+/* .footer {
+    background-color: white;
+    padding: 70px 0;
+}
+
+.footer-col {
+    width: 20%;
+    padding-left: 5px;
+}
+
+.footer-col h4 {
+    font-size: 18px;
+    color: #37517E;
+    text-transform: capitalize;
+    margin-bottom: 35px;
+    font-weight: 500;
+    position: relative;
+}
+
+.footer-col h4::before {
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    background-color: rgba(0, 3, 255, 0.8);
+    height: 2px;
+    box-sizing: border-box;
+    width: 50px;
+}
+
+.footer-col ul li:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.footer-col ul li a {
+    font-family: 'Open Sans';
+    font-size: 16px;
+    text-transform: capitalize;
+    color: gray;
+    text-decoration: none;
+    font-weight: 300;
+    display: block;
+    transition: all 0.3s ease;
+}
+
+.footer-col ul li a:hover {
+    color: rgba(0, 3, 255, 0.8);
+    padding-left: 8px;
+}
+
+h4 {
+    font-family: 'Jost';
+}
+
+.footer-col .social-media a {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: lightskyblue;
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: lightblue;
+    margin: 0 10px 10px 0;
+    transition: all 0.5s ease;
+}
+
+.footer-col .social-media a:hover {
+    color: rgba(0, 3, 255, 0.8);
+    background-color: lightskyblue;
+}
+
+.sosial-media {
+    color: black;
+    margin-bottom: 20px;
+}
+.fixed-footer {
+    width: 100%;
+    position: relative;
+    background: #00BFFF;
+    margin: 0 10px 10px 0;
+    padding: 10px 0;
+    color: white;
+    text-align: center;
+}
+
+.fixed-footer {
+    bottom: 0;
+}
+
+.footer-2 {
+    padding: 30px;
+    color: white;
+    background-color: #37517E;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.copy {
+    margin-left: 100px;
+}
+
+.bs {
+    text-align: right;
+    left: 1106.11px;
+    margin-right: 100px;
+}
+
+.bs a {
+    color: #00BFFF !important;
+    text-decoration: none !important;
+}
+
+.bs2 {
+    text-align: right;
+    left: 1106.11px;
+    margin-right: 100px;
+} */
